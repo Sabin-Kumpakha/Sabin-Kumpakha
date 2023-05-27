@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">Hello 👋, I'm Sabin Kumpakha</h1>
-<h3 align="center">A passionate Flutter developer from Nepal.</h3>
+<h3 align="center">A passionate Flutter developer from Bhaktapur, Nepal.</h3>
 
 
 ---
