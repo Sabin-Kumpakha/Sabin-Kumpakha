@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Dart, Flutter**
 
-- 📫 How to reach me **hellosabin7@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/sabin-kumpakha-308308246/**
 
 - ⚡ Fun fact **I think I am funny.**
 
