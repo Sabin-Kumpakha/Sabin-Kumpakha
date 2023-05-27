@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="68747470733a2f2f647265736d612e61692f77702d636f6e74656e742f75706c6f6164732f323032322f30322f456e67696e656572696e672d4d616e616765722d4d45524e2d537461636b2e676966" width="600" height="300"/>
-</div>
-
 
 <div align="center">
-  <img src="" width="600" height="400"/>
+  <img src="https://miro.medium.com/v2/resize:fit:828/0*C-cPP9D2MIyeexAT.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -12,8 +8,8 @@
 <h1 align="center">Hello 👋, I'm Sabin Kumpakha</h1>
 <h3 align="center">A passionate Flutter developer from Nepal.</h3>
 
-<div align="right">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0ad4d255444881.5984516cea6e7.jpg" width="600" height="300"/>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/329c70349deee2626516ecbdb13098aa649705d6f9eef29224152b7823671b38/68747470733a2f2f647265736d612e61692f77702d636f6e74656e742f75706c6f6164732f323032322f30322f456e67696e656572696e672d4d616e616765722d4d45524e2d537461636b2e676966" width="600" height="300"/>
 </div>
 
 ---
