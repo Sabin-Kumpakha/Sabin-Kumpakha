@@ -1,8 +1,14 @@
+<div align="center">
+  <img src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg" width="600" height="400"/>
+</div>
+
+---
+
 <h1 align="center">Hello 👋, I'm Sabin Kumpakha</h1>
 <h3 align="center">A passionate Flutter developer from Nepal.</h3>
 
 <div align="center">
-  <img src="https://blog.imarticus.org/wp-content/uploads/2021/02/huhgg.gif" width="600" height="400"/>
+  <img src="https://camo.githubusercontent.com/4cf6c8c01abe3d6dd673f33c4a05597a690778d4e98b54fc465af40df79334f4/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966" width="600" height="300"/>
 </div>
 
 ---
