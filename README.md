@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg" width="600" height="400"/>
+  <img src="68747470733a2f2f647265736d612e61692f77702d636f6e74656e742f75706c6f6164732f323032322f30322f456e67696e656572696e672d4d616e616765722d4d45524e2d537461636b2e676966" width="600" height="300"/>
+</div>
+
+
+<div align="center">
+  <img src="" width="600" height="400"/>
 </div>
 
 ---
@@ -7,8 +12,8 @@
 <h1 align="center">Hello 👋, I'm Sabin Kumpakha</h1>
 <h3 align="center">A passionate Flutter developer from Nepal.</h3>
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/4cf6c8c01abe3d6dd673f33c4a05597a690778d4e98b54fc465af40df79334f4/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966" width="600" height="300"/>
+<div align="right">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0ad4d255444881.5984516cea6e7.jpg" width="600" height="300"/>
 </div>
 
 ---
