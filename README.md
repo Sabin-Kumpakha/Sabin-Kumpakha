@@ -12,6 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabin-kumpakha&label=Profile%20views&color=0e75b6&style=flat" alt="sabin-kumpakha" /> </p>
 
+<img align="right" alt="Coding" width="400" src= "https://miro.medium.com/v2/resize:fit:828/0*C-cPP9D2MIyeexAT.gif">
+
+
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
 - 💬 Ask me about **Dart, Flutter**
@@ -20,9 +23,8 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
-<div align="right">
-  <img src="https://miro.medium.com/v2/resize:fit:828/0*C-cPP9D2MIyeexAT.gif" width="300" height="300"/>
-</div>
+
+
 
 
 ---
