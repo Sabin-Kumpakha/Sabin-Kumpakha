@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Dart, Flutter**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sabin-kumpakha-308308246/**
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Sabin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sabin-kumpakha-308308246/)
 
 - ⚡ Fun fact **I think I am funny.**
 
