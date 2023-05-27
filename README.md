@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter developer from Nepal.</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif" width="600" height="400"/>
+  <img src="https://blog.imarticus.org/wp-content/uploads/2021/02/huhgg.gif" width="600" height="400"/>
 </div>
 
 ---
