@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/329c70349deee2626516ecbdb13098aa649705d6f9eef29224152b7823671b38/68747470733a2f2f647265736d612e61692f77702d636f6e74656e742f75706c6f6164732f323032322f30322f456e67696e656572696e672d4d616e616765722d4d45524e2d537461636b2e676966" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/69719134/210133807-1773fdae-ec16-4f2c-8a2c-10cead295b23.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabin-kumpakha&label=Profile%20views&color=0e75b6&style=flat" alt="sabin-kumpakha" /> </p>
 
-<img align="right" alt="Coding" width="400" src= "https://miro.medium.com/v2/resize:fit:828/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
@@ -22,10 +22,6 @@
 - 📫 How to reach me **hellosabin7@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
-
-
-
-
 
 ---
 
