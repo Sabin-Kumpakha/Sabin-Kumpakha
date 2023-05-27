@@ -7,9 +7,6 @@
 <h1 align="center">Hello 👋, I'm Sabin Kumpakha</h1>
 <h3 align="center">A passionate Flutter developer from Nepal.</h3>
 
-<div align="right">
-  <img src="https://miro.medium.com/v2/resize:fit:828/0*C-cPP9D2MIyeexAT.gif" width="300" height="400"/>
-</div>
 
 ---
 
@@ -22,6 +19,11 @@
 - 📫 How to reach me **hellosabin7@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
+
+<div align="right">
+  <img src="https://miro.medium.com/v2/resize:fit:828/0*C-cPP9D2MIyeexAT.gif" width="300" height="300"/>
+</div>
+
 
 ---
 
