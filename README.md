@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">Hello 👋, I'm Sabin Kumpakha</h1>
-<h3 align="center">A passionate Flutter developer from Bhaktapur, Nepal.</h3>
+<h3 align="center">A passionate Flutter and Java developer from Bhaktapur, Nepal.</h3>
 
 
 ---
@@ -15,9 +15,9 @@
 <img align="right" alt="Coding" width="400" src= "https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter and Java Projects**
 
-- 💬 Ask me about **Dart, Flutter**
+- 💬 Ask me about **Dart, Flutter, Java, SpringBoot**
 
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Sabin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sabin-kumpakha-308308246/)
 
