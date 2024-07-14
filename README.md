@@ -17,6 +17,8 @@
 
 - 👯 I’m looking to collaborate on **Flutter and Java Projects**
 
+- 🌱 I’m currently learning **Java and SpringBoot**
+
 - 💬 Ask me about **Dart, Flutter, Java, SpringBoot**
 
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Sabin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sabin-kumpakha-308308246/)
